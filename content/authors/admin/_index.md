@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Maxim Fortin
 
 # Username (this should match the folder name)
 authors:
@@ -10,50 +10,41 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Expert in Water, Climate and Environment
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Cowater International
+  url: "www.cowater.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My professional interests include hydraulic modeling, water distribution system design, flood mapping analysis, mobile tech applications for development and GIS.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Hydraulic modeling
+- Water distribution system design
+- Flood mapping and analysis
+- Mobile technoloy for development
+- GIS and mapping
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc. in Water and Waste Engineering
+    institution: Loughborough University
+    year: 2015
+  - course: B.Eng. in Water Engineering
+    institution: Université Laval
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/maximfortin
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +56,13 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Maxim Fortin
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mr. Fortin is a professional engineer and experienced project manager with close to 10 years of experience in the sectors of energy, water and environment. His key specialization areas include designing, managing and deploying rural infrastructure projects and studies mainly through his work in multiple countries in Africa, the Caribbean, Middle East and Asia.
+
+Since 2015, as Project Manager and then Field Team Leader, he led the scoping, design and implementation of a large-scale regional project focused on improving access to energy in rural areas of Burkina Faso. This 4-year, CAD 18M project aims to contribute to sustainable economic growth in the Boucle du Mouhoun region by extending the national grid, installing off-grid energy solutions and supporting the development of renewable energy-enabled local economic development activities. Prior to that, Mr. Fortin conducted studies, managed projects or provided technical assistance in the Sahel region and other higher-risk areas such as Khyber Pakhtunkhwa in Pakistan.

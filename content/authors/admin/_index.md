@@ -60,9 +60,6 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-
-Maxim Fortin
-
 Mr. Fortin is a professional engineer and experienced project manager with close to 10 years of experience in the sectors of energy, water and environment. His key specialization areas include designing, managing and deploying rural infrastructure projects and studies mainly through his work in multiple countries in Africa, the Caribbean, Middle East and Asia.
 
 Since 2015, as Project Manager and then Field Team Leader, he led the scoping, design and implementation of a large-scale regional project focused on improving access to energy in rural areas of Burkina Faso. This 4-year, CAD 18M project aims to contribute to sustainable economic growth in the Boucle du Mouhoun region by extending the national grid, installing off-grid energy solutions and supporting the development of renewable energy-enabled local economic development activities. Prior to that, Mr. Fortin conducted studies, managed projects or provided technical assistance in the Sahel region and other higher-risk areas such as Khyber Pakhtunkhwa in Pakistan.
